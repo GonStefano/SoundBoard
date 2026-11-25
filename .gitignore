@@ -1,0 +1,26 @@
+/target/
+
+# Rust temporary files
+**/*.rs.bk
+*.pdb
+
+# Local environment
+.env
+.env.*
+.cargo/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Generated binaries and crash logs
+*.exe
+*.dll
+*.log
+*.crash
